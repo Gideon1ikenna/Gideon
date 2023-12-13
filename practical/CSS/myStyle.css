@@ -1,0 +1,16 @@
+p {
+    color: brown;
+}
+
+.mypara {
+    color: blue;
+}
+
+#mypara {
+    background: greenyellow;
+}
+body{
+    background-color:rgb(50, 100,130);
+    
+    
+}
